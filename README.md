@@ -16,7 +16,7 @@ Leveraging the tfjs script we can run inferences on the client-side with virtual
 ## Disadvantages
 Inconsistent User Experience (fps, internet speed) can become a problem for systems with various configurations, but that's the case with all websites and browser apps.
 
-# Steps to use this Repo with Custom Object Detector
+# Steps to use this Repo with Custom Object Detection Model
 
 1. Train a SSD MobileNet model from the references given below.
 2. Freeze the model.
