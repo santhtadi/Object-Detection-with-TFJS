@@ -1,7 +1,7 @@
 # Object-Detection-with-TFJS
 
 ## Working Demo
-A working demo can be found at [santhtadi.github.io](https://santhtadi.github.io/Object-Detection-with-TFJS)
+A Live demo can be found at [santhtadi.github.io](https://santhtadi.github.io/Object-Detection-with-TFJS)
 
 # Introduction
 This project show cases the use of Tensorflow JS, a JavaScript library released by Tensorflow, for Object Detection.
