@@ -1,6 +1,6 @@
 # Object-Detection-with-TFJS
 
-## Working Demo
+## Live Demo
 A Live demo can be found at [santhtadi.github.io](https://santhtadi.github.io/Object-Detection-with-TFJS)
 
 # Introduction
