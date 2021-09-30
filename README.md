@@ -22,7 +22,8 @@ Inconsistent User Experience (fps, internet speed) can become a problem for syst
 2. Freeze the model.
 3. Convert to tfjs format (json and bin files).
 4. Use a cloud service to provide the json and model files like IBM or AWS (I used the one hosted by google at https://storage.googleapis.com/tfjs-models/savedmodel/ssdlite_mobilenet_v2/model.json).
-5. Use the script script.js to run inference
+5. Edit the model path and label maps in coco-ssd.js
+6. Use the script.js to run inference!
 
 # References
 The tutorial for generating a [SSD MobileNet model](https://www.youtube.com/watch?v=yqkISICHH-U)
